@@ -14,7 +14,7 @@ class AboutUs extends Component {
                                     <h3>DESCRIÇÃO DA PLATAFORMA</h3>
                                     <p className="text-muted web-desc">
                                         Prepare-se para o mercado de trabalho
-                                        com a XXX, comece aprendendo sobre
+                                        com a UNE, comece aprendendo sobre
                                         competências socioemocionais, a seguir
                                         conecte-se com outros jovens, escolha um
                                         problema e proponha uma solução.

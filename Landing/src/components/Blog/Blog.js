@@ -11,44 +11,44 @@ class Blog extends Component {
     this.state = {
       blogs: [
         {
-          image: "assets/images/blog/computer.jpg",
+          image: "assets/images/blog/img-3.jpg",
           category: "Falta 50% para completar",
-          title: "Introdução a informática",
+          title: "Comunicação",
           desc:
             "Professor(a): Leandro Matos",
         },
         {
           image: "assets/images/blog/sales.jpg",
           category: "Falta 75% para completar",
-          title: "Introdução a vendas",
+          title: "Gestão de Tempo ",
           desc:
             "Professor(a): João Pedro Zanatta",
         },
         {
-          image: "assets/images/blog/img-3.jpg",
-          category: "Falta 5% para completar",
-          title: "Excel básico",
-          desc:
-            "Professor(a): Amanda Pires",
-        },
-        {
           image: "assets/images/blog/schedule.jpg",
-          category: "Falta 35% para completar",
-          title: "Organização Pessoal",
+          category: "Falta 5% para completar",
+          title: "Organização",
           desc:
             "Professor(a): Amanda Pires",
         },
         {
-          image: "assets/images/blog/img-3.jpg",
+          image: "assets/images/blog/img-2.jpg",
+          category: "Falta 35% para completar",
+          title: "Técnicas de apresentação",
+          desc:
+            "Professor(a): Amanda Pires",
+        },
+        {
+          image: "assets/images/blog/img-1.jpg",
           category: "Curso Finalizado!",
-          title: "Como formar conexões",
+          title: "Mindfullness",
           desc:
             "Professor(a): Bruno Loureiro",
         },
         {
           image: "assets/images/blog/emocional.jpg",
           category: "Curso Finalizado!",
-          title: "Inteligência Emocional",
+          title: "Meditação",
           desc:
             "Professor(a): Fernanda Lima",
         },

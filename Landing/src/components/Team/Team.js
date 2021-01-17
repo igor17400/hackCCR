@@ -11,23 +11,23 @@ class Clients extends Component {
     this.state = {
       teams: [
         {
-          image: "assets/images/team/img-1.jpg",
-          title: "Nicolle",
-          desc: "CEO",
+          image: "assets/images/team/nicolle.jpeg",
+          title: "Nicolle Oliveira",
+          desc: "Business",
         },
         {
           image: "assets/images/team/fernanda.jpeg",
-          title: "Fernanda",
-          desc: "PRESIDENTE",
+          title: "Fernanda Bing",
+          desc: "Entusiasta em educação/inclusão",
         },
         {
           image: "assets/images/team/bruno.jpeg",
-          title: "Bruno",
-          desc: "DESIGNER",
+          title: "Bruno Franzoni",
+          desc: "UX/UI Designer",
         },
         {
           image: "assets/images/team/igor.JPG",
-          title: "Igor",
+          title: "Igor Lima",
           desc: "DESENVOLVEDOR",
         },
       ],

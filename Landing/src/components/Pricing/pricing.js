@@ -54,7 +54,7 @@ class Pricing extends Component {
             />
 
             <Row className="mt-5">
-              <h5 style={{textAlign: "center", fontSize: "32px"}}>Como auxiliar costureiras a investir na bolsa de valores</h5>
+              <h5 style={{textAlign: "center", fontSize: "32px"}}>Ensinar educação financeira para costureiras</h5>
             </Row>
 
             <Row className="mt-5">

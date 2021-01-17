@@ -38,24 +38,24 @@ class Signup extends Component {
                               to="/"
                               className="text-dark text-uppercase account-pages-logo"
                             >
-                              Dorsin
+                              UNE
                             </Link>
                           </h3>
                           <p className="text-muted">
-                            Sign up for a new Account
+                            Criar uma nova conta
                           </p>
                         </div>
                         <div className="p-3">
                           <AvForm>
                             <FormGroup>
-                              <Label htmlFor="firstname">First Name</Label>
+                              <Label htmlFor="firstname">Primeiro Nome</Label>
                               <AvField
                                 name="firstname"
                                 required
                                 type="text"
                                 className="form-control"
                                 id="firstname"
-                                placeholder="First Name"
+                                placeholder="Primeiro Nome"
                               />
                             </FormGroup>
 
@@ -72,14 +72,14 @@ class Signup extends Component {
                             </FormGroup>
 
                             <FormGroup>
-                              <Label htmlFor="userpassword">Password</Label>
+                              <Label htmlFor="userpassword">Senha</Label>
                               <AvField
                                 type="password"
                                 name="password"
                                 required
                                 className="form-control"
                                 id="userpassword"
-                                placeholder="Enter password"
+                                placeholder="Senha"
                               />
                             </FormGroup>
 
@@ -93,7 +93,7 @@ class Signup extends Component {
                                 className="custom-control-label"
                                 htmlFor="customControlInline"
                               >
-                                Remember me
+                                Login automático
                               </Label>
                             </div>
 
@@ -104,16 +104,16 @@ class Signup extends Component {
                                   color="none"
                                   className="btn btn-primary"
                                 >
-                                  Sign in
+                                  Registrar
                                 </Button>
                               </Link>
                             </div>
 
                             <div className="mt-4 mb-0 text-center">
                               <p className="mb-0">
-                                Already have an account ?{" "}
+                                Ja possui uma conta ?{" "}
                                 <Link to="/login" className="text-danger">
-                                  Sign in
+                                  Login
                                 </Link>
                               </p>
                             </div>
