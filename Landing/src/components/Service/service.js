@@ -43,7 +43,7 @@ class Process extends Component {
           <Container>
             {/* section title */}
             <SectionTitle
-              title="Programas ofernecidos"
+              title="Programas fornecidos"
             />
 
             <Row xs="2" className="mt-4">
